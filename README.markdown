@@ -1,4 +1,5 @@
 # activerecord-import [![Build Status](https://travis-ci.org/zdennis/activerecord-import.svg?branch=master)](https://travis-ci.org/zdennis/activerecord-import)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Factiverecord-import.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Factiverecord-import?ref=badge_shield)
 
 activerecord-import is a library for bulk inserting data using ActiveRecord.
 
@@ -66,6 +67,9 @@ When rubygems pushes the `lib` folder onto the load path a `require` will now fi
 # License
 
 This is licensed under the ruby license.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Factiverecord-import.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Factiverecord-import?ref=badge_large)
 
 # Author
 
